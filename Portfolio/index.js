@@ -20,4 +20,3 @@ function changeColor() {
 }
 changeColor();
 
-window.addEventListener('scroll', changeColor);
