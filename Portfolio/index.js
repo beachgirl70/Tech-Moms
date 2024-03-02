@@ -19,7 +19,3 @@ function changeColor() {
 
 }
 changeColor();
-
-//wiofgjiorgjwer
-//rhgerg
-//jrgiwrgioj
